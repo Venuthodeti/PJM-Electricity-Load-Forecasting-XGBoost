@@ -168,7 +168,7 @@ header[data-testid="stHeader"] {
     font-family: 'Space Grotesk', sans-serif;
     font-size: 1.25rem;
     font-weight: 600;
-    color: #f4f7fd;
+    color: #000000;
     margin: 22px 0 4px 0;
 }
 
